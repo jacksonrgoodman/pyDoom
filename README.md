@@ -1,4 +1,4 @@
-# Base Pygame Project
+# pyDoom
 ### all set to start from scratch 8-)
 ---
 
